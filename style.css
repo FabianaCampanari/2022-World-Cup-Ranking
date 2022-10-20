@@ -1,0 +1,56 @@
+* {
+  text-align: center;
+  font-weight: bold;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 500px;
+  background-image: url("https://thumbs.dreamstime.com/b/soccer-ball-flag-brazil-green-field-world-event-bright-colorful-lights-36031162.jpg");
+  background-color: #111;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+div {
+  margin: 16px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+table {
+  border: 3px solid black;
+  border-collapse: 2px collapse;
+}
+
+h1 {
+  color: red;
+  font-weight: bold;
+}
+th,
+tr,
+td {
+  border: solid 2px black;
+  color: black;
+}
+
+input {
+  border: none;
+  background: #f4e996;
+  border-radius: 26px;
+}
+
+button {
+  border: none;
+  background: #ffff77;
+  cursor: pointer;
+  border-radius: 26px;
+}
+footer {
+  margin: 12px;
+}
