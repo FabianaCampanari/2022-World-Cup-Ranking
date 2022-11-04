@@ -2,6 +2,11 @@
 
 Creation of a leaderboard.
 
+< made with love & joy />
+
+
+SPECS:
+
 //Objects in JS and leaderboard.
 
 - Reference with:
