@@ -1,4 +1,4 @@
-2022 World Cup Ranking
+🏆 2022 World Cup Ranking
 
 Creation of a leaderboard.
 
